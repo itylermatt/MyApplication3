@@ -28,7 +28,7 @@ import java.lang.Object;
 
 //import static com.example.tyler.myapplication.Welcome_User.startScan;
 //import static com.example.tyler.myapplication.Welcome_User.stopScan;
-
+//testing commits
 public class MainActivity extends AppCompatActivity {
 
     @Override
